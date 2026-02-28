@@ -1,31 +1,14 @@
 {
-<<<<<<< HEAD
   "name": "server",
-=======
-  "name": "express_crud",
->>>>>>> d51d3eee0f066bcffbb17160ad62a8c3abe66bcb
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-<<<<<<< HEAD
     "Start": "node index"
-=======
-    "start": "node server.js",
-    "dev": "nodemon server.js"
->>>>>>> d51d3eee0f066bcffbb17160ad62a8c3abe66bcb
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-<<<<<<< HEAD
   "type": "commonjs"
-=======
-  "type": "commonjs",
-  "dependencies": {
-    "express": "^5.2.1",
-    "nodemon": "^3.1.13"
-  }
->>>>>>> d51d3eee0f066bcffbb17160ad62a8c3abe66bcb
 }
