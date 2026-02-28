@@ -1,0 +1,10 @@
+db.students.insertMany([{ name: "Rahul", age: 22, class: "BCA" },
+{ name: "Priya", age: 24, class: "B.Sc" },
+{ name: "Amit", age: 21, class: "B.Com" },
+{ name: "Sneha", age: 23, class: "BA" },
+{ name: "Karan", age: 25, class: "MBA" },
+{ name: "Neha", age: 20, class: "B.Tech" },
+{ name: "Rohan", age: 22, class: "BBA" },
+{ name: "Pooja", age: 24, class: "M.Com" },
+{ name: "Arjun", age: 23, class: "BCA" },
+{ name: "Divya", age: 21, class: "B.Sc IT" }])
