@@ -1,3 +1,4 @@
+// Used to server start only
 
 const app = require('./src/app');
 
